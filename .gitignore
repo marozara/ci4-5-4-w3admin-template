@@ -125,6 +125,4 @@ nb-configuration.xml
 /results/
 /phpunit*.xml
 
-# Compser phar & spark
-Composer.phar
-spark
+
